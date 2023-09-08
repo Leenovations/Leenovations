@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Leenovations
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Leenovations/Leenovations is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @Leenovations
+- ✨ I obtained a master's degree in bioinformatics from Yonsei University. 
+- 👀 I'm conducting research in the field of bioinformatics, with a primary focus on studying drug resistance caused by cancer methylation.
+- 📫 You can contact me by sending an email to pickyu2@naver.com, or feel free to reach out to me through my blog or Instagram as well.
